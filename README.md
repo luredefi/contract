@@ -1,2 +1,3 @@
-# contract
-This is a Code
+What is Lure?
+Launched in March 2022, Lure is a global cryptocurrency exchange based on daily trading volume. Lure aims to bring cryptocurrency exchanges to the forefront of financial activity globally. The idea behind the name of Lure is to show this new paradigm in global finance.
+In addition to being a fully decentralized cryptocurrency exchange, we rely on the security and speed with which transactions are made. We have launched an entire ecosystem of features for its users. We are now in the Smart Chain, but soon we will have our own network, which will include projects like Lure Chain, Lure Fast Chain, Lure Academy, Lure Fundación, which harness the powers of blockchain technology to bring new age finance to the world. Lure is an integral part of the successful operation of many of the Lure-DeFi sub-projects
